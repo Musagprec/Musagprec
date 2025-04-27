@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Qazi Mohammed musa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer and AI-ML Engineer from India, who loves solving problems, building scalable web apps, and exploring the latest in tech!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musagprec&label=Profile%20views&color=0e75b6&style=flat" alt="musagprec" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musagprec" alt="musagprec" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://musa.codersclubgprec.in](https://musa.codersclubgprec.in)
+
+- 📫 How to reach me **quazimosa@gmail.com**
+
+- 📄 Know about my experiences [https://musa.codersclubgprec.in/Quazi_Mosa.pdf](https://musa.codersclubgprec.in/Quazi_Mosa.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
